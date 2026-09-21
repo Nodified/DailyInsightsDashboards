@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Daily Insights</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <img id="app-logo" alt="Logo" class="app-logo" />
+    <div class="app-brand">
+      <h1 id="app-title">Daily Insights</h1>
+      <nav id="app-nav"></nav>
+    </div>
+    <select id="theme-switcher" aria-label="Theme"></select>
+  </header>
+
+  <main>
+    <div id="filter-bar" class="filter-bar"></div>
+    <section id="cards" class="cards-grid"></section>
+    <section id="charts" class="charts-grid"></section>
+    <p id="status" class="status"></p>
+  </main>
+
+  <!-- Pinned open-source libraries (MIT) -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.1/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.7.0/papaparse.min.js"></script>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
