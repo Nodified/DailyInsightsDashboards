@@ -1,0 +1,10 @@
+[
+  { "date": "2026-09-01", "device": "mobile",  "users": 4120, "session": { "avgMinutes": 6.2 },  "geo": { "country": "UK" } },
+  { "date": "2026-09-01", "device": "desktop", "users": 2980, "session": { "avgMinutes": 9.4 },  "geo": { "country": "UK" } },
+  { "date": "2026-09-01", "device": "tablet",  "users": 640,  "session": { "avgMinutes": 7.8 },  "geo": { "country": "DE" } },
+  { "date": "2026-09-02", "device": "mobile",  "users": 4390, "session": { "avgMinutes": 6.5 },  "geo": { "country": "UK" } },
+  { "date": "2026-09-02", "device": "desktop", "users": 3050, "session": { "avgMinutes": 9.9 },  "geo": { "country": "US" } },
+  { "date": "2026-09-02", "device": "tablet",  "users": 710,  "session": { "avgMinutes": 8.1 },  "geo": { "country": "DE" } },
+  { "date": "2026-09-03", "device": "mobile",  "users": 4660, "session": { "avgMinutes": 6.9 },  "geo": { "country": "US" } },
+  { "date": "2026-09-03", "device": "desktop", "users": 3220, "session": { "avgMinutes": 10.2 }, "geo": { "country": "UK" } }
+]
