@@ -45,8 +45,8 @@ zero server-side processing, and near-zero hosting cost.
 require an HTTP origin).
 
 ```bash
-git clone https://github.com/<your-org>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Nodified/DailyInsightsDashboards.git
+cd DailyInsightsDashboards
 
 # Option A: Python (pre-installed on macOS/Linux)
 python3 -m http.server 8080
